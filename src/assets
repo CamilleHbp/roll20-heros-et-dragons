@@ -1,0 +1,18 @@
+{
+	"strength": "strength",
+	"dexterity": "dexterity",
+	"intelligence": "intelligence",
+	"wisdom": "wisdom",
+	"charisma": "charisma",
+	"acrobatics": "acrobatics",
+	"athletics": "athletics",
+	"awareness": "awareness",
+	"charm": "charm",
+	"command": "command",
+	"commerce": "commerce",
+	"intimidate": "intimidate",
+	"logic": "logic",
+	"traits": "traits",
+	"skills": "skills",
+	"characteristics": "characteristics"
+}
